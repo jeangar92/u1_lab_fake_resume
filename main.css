@@ -1,5 +1,28 @@
 .header {
-font-family: cursive;
+font-family: arial, sans-serif;
 background-color: red;
 }
 
+h1 {
+    text-align: center;
+    font-weight: 400;
+}
+
+h3 {
+  color: blue;;
+text-align: center;
+padding: 10px;
+}
+
+#grumpycat {
+    text-align: center;
+    
+}
+
+body {
+    text-align: center;
+}
+
+.experience, ul {
+    list-style: none;
+}
