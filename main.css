@@ -2,25 +2,24 @@
 font-family: arial, sans-serif;
 background-color: red;
 }
-
-h1 {
+div {
     text-align: center;
+}
+h1 {
+    
     font-weight: 400;
 }
 
 h3 {
-  color: blue;;
+  color: blue;
 text-align: center;
 padding: 10px;
+text-align:
 }
 
 #grumpycat {
     text-align: center;
     
-}
-
-body {
-    text-align: center;
 }
 
 .experience, ul {
